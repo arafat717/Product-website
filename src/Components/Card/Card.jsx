@@ -22,7 +22,7 @@ const Card = () => {
 
 
     useEffect(() => {
-        fetch('public/product.json')
+        fetch('https://summer-camp-school-server-wheat.vercel.app/products')
             .then((res) => res.json())
             .then((data) => setProducts(data));
     }, []);
