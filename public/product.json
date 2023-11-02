@@ -1,0 +1,250 @@
+[
+    {
+        "_id": "01",
+        "category": "Clothing",
+        "image": "../src/assets/images/01 (2).jpg",
+        "title": "Premium Leather Wallet",
+        "description": "Crafted from high-quality leather, this premium wallet offers style and functionality in one. Stay organized with multiple card slots and a sleek design.",
+        "price": 19.99
+    },
+    {
+        "_id": "02",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-anderson-martins-2461031.jpg",
+        "title": "Wireless Bluetooth Earbuds",
+        "description": "Experience music like never before with these wireless earbuds. Enjoy clear sound, comfortable fit, and long battery life on the go.",
+        "price": 29.99
+    },
+    {
+        "_id": "03",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-dids-5114898.jpg",
+        "title": "Smart Fitness Tracker",
+        "description": "Monitor your health and fitness goals with this smart tracker. Track steps, heart rate, sleep, and receive notifications on your wrist.",
+        "price": 15.99
+    },
+    {
+        "_id": "04",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-foysal-ahmed-4294954.jpg",
+        "title": "Stainless Steel Water Bottle",
+        "description": "Stay hydrated with a durable stainless steel water bottle. Keep your drinks cold for hours and reduce single-use plastic waste.",
+        "price": 24.99
+    },
+    {
+        "_id": "05",
+        "category": "Clothing",
+        "image": "../src/assets/images/02 (2).jpg",
+        "title": "Designer Sunglasses",
+        "description": "Elevate your style with these designer sunglasses. Protect your eyes from the sun while making a fashion statement.",
+        "price": 34.99
+    },
+    {
+        "_id": "06",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-indra-projects-18911014.jpg",
+        "title": "Professional Camera Kit",
+        "description": "Capture stunning photos and videos with this professional camera kit. Ideal for photographers and videographers looking for high-quality equipment.",
+        "price": 21.99
+    },
+    {
+        "_id": "07",
+        "category": "Books",
+        "image": "../src/assets/images/books.jpg",
+        "title": "Organic Herbal Tea Collection",
+        "description": "Savor the flavors of nature with our organic herbal tea collection. A delightful variety of blends to relax and rejuvenate.",
+        "price": 17.99
+    },
+    {
+        "_id": "08",
+        "category": "Clothing",
+        "image": "../src/assets/images/03 (2).jpg",
+        "title": "Luxury Fountain Pen",
+        "description": "Write in style with this luxury fountain pen. Crafted with precision and elegance, it's perfect for professionals and enthusiasts.",
+        "price": 27.99
+    },
+    {
+        "_id": "09",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-karolina-grabowska-4498606.jpg",
+        "title": "Digital Drawing Tablet",
+        "description": "Unleash your creativity with a digital drawing tablet. Ideal for artists, illustrators, and anyone who loves to draw digitally.",
+        "price": 22.99
+    },
+    {
+        "_id": "10",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-kei-scampa-4413463.jpg",
+        "title": "Outdoor Adventure Backpack",
+        "description": "Embark on your outdoor adventures with this rugged backpack. Designed for hikers and explorers, it's built to endure the elements.",
+        "price": 19.99
+    },
+    {
+        "_id": "11",
+        "category": "Books",
+        "image": "../src/assets/images/books01.jpg",
+        "title": "Gourmet Chocolate Assortment",
+        "description": "Indulge in a selection of gourmet chocolates from around the world. The perfect gift for chocolate lovers.",
+        "price": 29.99
+    },
+    {
+        "_id": "12",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-ketut-subiyanto-4426519.jpg",
+        "title": "Fitness Yoga Mat",
+        "description": "Enhance your yoga and fitness routines with a high-quality yoga mat. Non-slip and comfortable for all your workouts.",
+        "price": 15.99
+    },
+    {
+        "_id": "13",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-michael-burrows-7125621.jpg",
+        "title": "Gaming Console Bundle",
+        "description": "Immerse yourself in the world of gaming with this console bundle. Enjoy the latest games and entertainment.",
+        "price": 24.99
+    },
+    {
+        "_id": "14",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-michael-burrows-7129061.jpg",
+        "title": "Smart Home Security System",
+        "description": "Protect your home with a smart security system. Monitor your property remotely and receive alerts in real-time.",
+        "price": 34.99
+    },
+    {
+        "_id": "15",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-nina-uhlikova-287240.jpg",
+        "title": "Premium Coffee Grinder",
+        "description": "Elevate your coffee experience with a premium coffee grinder. Grind your beans to perfection and savor every cup.",
+        "price": 21.99
+    },
+    {
+        "_id": "16",
+        "category": "Clothing",
+        "image": "../src/assets/images/07.jpg",
+        "title": "Designer Watch Collection",
+        "description": "Add elegance to your wrist with our designer watch collection. A blend of style and precision for every occasion.",
+        "price": 17.99
+    },
+    {
+        "_id": "17",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-ono-kosuki-5999797.jpg",
+        "title": "Digital Instant Camera",
+        "description": "Capture memories instantly with a digital instant camera. Print your photos on the spot and relive the moment.",
+        "price": 27.99
+    },
+    {
+        "_id": "18",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-pixabay-301792.jpg",
+        "title": "Compact Laptop Stand",
+        "description": "Elevate your workspace with a compact laptop stand. Improve ergonomics and create a more comfortable and efficient setup.",
+        "price": 22.99
+    },
+    {
+        "_id": "19",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-redrec-©️-4553081.jpg",
+        "title": "Portable Bluetooth Speaker",
+        "description": "Take your music anywhere with a portable Bluetooth speaker. Enjoy powerful sound and a long-lasting battery.",
+        "price": 19.99
+    },
+    {
+        "_id": "20",
+        "category": "Clothing",
+        "image": "../src/assets/images/sun.jpg",
+        "title": "Chef's Knife Set",
+        "description": "Upgrade your kitchen with a professional chef's knife set. Precision and quality for culinary enthusiasts.",
+        "price": 29.99
+    },
+    {
+        "_id": "21",
+        "category": "Books",
+        "image": "../src/assets/images/books03.jpg",
+        "title": "Camping Cookware Set",
+        "description": "Cook delicious meals while camping with this compact cookware set. Lightweight and durable for outdoor cooking.",
+        "price": 15.99
+    },
+    {
+        "_id": "22",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-stas-knop-1298601.jpg",
+        "title": "Remote Control Drone",
+        "description": "Explore the skies with a remote control drone. Capture stunning aerial photos and videos from above.",
+        "price": 24.99
+    },
+    {
+        "_id": "23",
+        "category": "Clothing",
+        "image": "../src/assets/images/01 (2).jpg",
+        "title": "Luxury Silk Scarf",
+        "description": "Add a touch of elegance to your attire with a luxury silk scarf. A timeless accessory for any wardrobe.",
+        "price": 34.99
+    },
+    {
+        "_id": "24",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-pixabay-301792.jpg",
+        "title": "Digital Alarm Clock",
+        "description": "Start your day right with a digital alarm clock. Wake up to your favorite tunes and stay punctual.",
+        "price": 21.99
+    },
+    {
+        "_id": "25",
+        "category": "Electronics",
+        "image": "../src/assets/images/pexels-ono-kosuki-5999797.jpg",
+        "title": "Smart Home Speaker",
+        "description": "Turn your home into a smart haven with this voice-controlled speaker. Play music, control smart devices, and get information with ease.",
+        "price": 7.99
+    },
+    {
+        "_id": "26",
+        "category": "Clothing",
+        "image": "../src/assets/images/01 (2).jpg",
+        "title": "Luxury Silk Scarf",
+        "description": "Add a touch of elegance to your attire with a luxury silk scarf. A timeless accessory for any wardrobe.",
+        "price": 54.99
+    },
+    {
+        "_id": "27",
+        "category": "Clothing",
+        "image": "../src/assets/images/02 (2).jpg",
+        "title": "Luxury Silk Scarf",
+        "description": "Add a touch of elegance to your attire with a luxury silk scarf. A timeless accessory for any wardrobe.",
+        "price": 84.99
+    },
+    {
+        "_id": "28",
+        "category": "Clothing",
+        "image": "../src/assets/images/07.jpg",
+        "title": "Luxury Silk Scarf",
+        "description": "Add a touch of elegance to your attire with a luxury silk scarf. A timeless accessory for any wardrobe.",
+        "price": 44.99
+    },
+    {
+        "_id": "29",
+        "category": "Books",
+        "image": "../src/assets/images/books04.jpg",
+        "title": "Camping Cookware Set",
+        "description": "Cook delicious meals while camping with this compact cookware set. Lightweight and durable for outdoor cooking.",
+        "price": 18.99
+    },
+    {
+        "_id": "30",
+        "category": "Books",
+        "image": "../src/assets/images/books02.jpg",
+        "title": "Camping Cookware Set",
+        "description": "Cook delicious meals while camping with this compact cookware set. Lightweight and durable for outdoor cooking.",
+        "price": 1.99
+    },
+    {
+        "_id": "31",
+        "category": "Books",
+        "image": "../src/assets/images/books06.jpg",
+        "title": "Camping Cookware Set",
+        "description": "Cook delicious meals while camping with this compact cookware set. Lightweight and durable for outdoor cooking.",
+        "price": 5.99
+    }
+]
