@@ -22,7 +22,7 @@ const Card = () => {
 
 
     useEffect(() => {
-        fetch('../../../public/product.json')
+        fetch('public/product.json')
             .then((res) => res.json())
             .then((data) => setProducts(data));
     }, []);
