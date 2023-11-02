@@ -183,7 +183,7 @@ const Card = () => {
                         currentProducts.map(product => <CardContainer key={product._id}>
                             <CardImage src={product.image} alt="Card Image" />
                             <CardContent>
-                                <CardTitle>{product.titl}</CardTitle>
+                                <CardTitle>{product.title}</CardTitle>
                                 <CardDescription>
                                     {product.description}
                                 </CardDescription>
